@@ -1,0 +1,56 @@
+/* *******************CONSTANTS********************* */
+
+.flex
+{
+    display: flex;
+   
+}
+.column
+{
+    flex-direction: column;
+
+}
+.space
+{
+    justify-content: space-between;
+}
+.yellow
+{
+    background-color: yellow;
+}
+.red
+{
+    background-color: rgb(185, 128, 137);
+}
+
+/* *****************DIVS************************* */
+.top-left
+{
+    height: 50px;
+    background-color: blueviolet;
+}
+
+.bottom-left
+{
+    height: 150px;
+    background-color: aquamarine;
+}
+.left-div
+{
+    height: 100%;
+    width: 45%;
+    margin: 5px;
+}
+.yellow-left-top
+{
+    height: 60%;
+    margin-bottom: 5px;
+}
+.red-left-bottom
+{
+   height: 25%;
+}
+.aqua
+{
+    background-color: aqua;
+}
